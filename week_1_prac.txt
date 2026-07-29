@@ -1,1 +1,7 @@
-Hello from Colab!
+Things Mik Mik Found Difficult:
+- Creating a new branch
+- The whole idea of having to create, then commit, then push onto GitHub (what do they all actually do?)
+
+Things Mik Mik Found Interesting:
+- Using AI to do the code for you
+- Being able to make seperate branches, how to these relate to other bits of the code?
