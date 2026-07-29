@@ -5,4 +5,4 @@ Things Mik Mik Found Difficult:
 Things Mik Mik Found Interesting:
 - Using AI to do the code for you
 - Being able to make seperate branches, how to these relate to other bits of the code?
-Last updated: 2026-07-29 01:47:26
+Last updated: 2026-07-29 01:50:36
